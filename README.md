@@ -1,6 +1,6 @@
-# MEDNet
+#  A denoising semi-supervised deep learning model for remaining useful life prediction of turbofan engine degradation
 
-This repository contains the Implementation details of the paper "Edge detection networks inspired by neural mechanisms of selective attention in biological visual cortex".
+This repository contains the Implementation details of the paper " A denoising semi-supervised deep learning model for remaining useful life prediction of turbofan engine degradation".
 The address of the paper is at (Add after the article is accepted.)
 
 ## Citations
