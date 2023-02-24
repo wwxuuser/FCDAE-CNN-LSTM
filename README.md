@@ -7,11 +7,6 @@ If you are using the code/model/data provided here in a publication, please cons
 Add after the article is accepted.
 ```
 ## Get Start
-1、Download our code.<br/>
-2、prepare the dataset.<br/>
-3、Configure the environment.<br/>
-4、keras==2.3,tensorflow = 1.15.<br/>
-
 
 文件夹中包含模型文件,数据集，实验结果以及其他相关文件
 The folder contains model files, data sets, experimental results, and other relevant files
