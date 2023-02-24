@@ -1,7 +1,5 @@
-#  A denoising semi-supervised deep learning model for remaining useful life prediction of turbofan engine degradation
+#  A
 
-This repository contains the Implementation details of the paper " A denoising semi-supervised deep learning model for remaining useful life prediction of turbofan engine degradation".
-The address of the paper is at (Add after the article is accepted.)
 
 ## Citations
 If you are using the code/model/data provided here in a publication, please consider citing our paper:
