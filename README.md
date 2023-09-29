@@ -1,10 +1,19 @@
-#  A denoising semi-supervised deep learning model for remaining useful life prediction of turbofan engine degradation
+#  A denoising semi-supervised deep learning model for remaining useful life prediction of turbofan engine degradation<br/>
+The address of the paper is at（https://link.springer.com/article/10.1007/s10489-023-04777-0）
 
 
 ## Citations
 If you are using the code/model/data provided here in a publication, please consider citing our paper:
 ```
 [1]Wang Y, Wang Y. A denoising semi-supervised deep learning model for remaining useful life prediction of turbofan engine degradation[J]. Applied Intelligence, 2023: 1-18.
+@article{wang2023denoising,
+  title={A denoising semi-supervised deep learning model for remaining useful life prediction of turbofan engine degradation},
+  author={Wang, Youming and Wang, Yue},
+  journal={Applied Intelligence},
+  pages={1--18},
+  year={2023},
+  publisher={Springer}
+}
 ```
 ## Get Start
 
@@ -25,4 +34,5 @@ Test results on dataset C-MAPSS:
 </center>
 
 # Reference and Acknowledgments
-When building our code We referenced the repositories as follow:<br/https://github.com/ddrrrr/projectRUL>
+When building our code We referenced the repositories as follow:<br/>
+https://github.com/ddrrrr/projectRUL
