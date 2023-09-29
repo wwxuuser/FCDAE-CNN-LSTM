@@ -1,10 +1,10 @@
-#  A
+#  A denoising semi-supervised deep learning model for remaining useful life prediction of turbofan engine degradation
 
 
 ## Citations
 If you are using the code/model/data provided here in a publication, please consider citing our paper:
 ```
-Add after the article is accepted.
+[1]Wang Y, Wang Y. A denoising semi-supervised deep learning model for remaining useful life prediction of turbofan engine degradation[J]. Applied Intelligence, 2023: 1-18.
 ```
 ## Get Start
 
