@@ -25,4 +25,4 @@ Test results on dataset C-MAPSS:
 </center>
 
 # Reference and Acknowledgments
-When building our code We referenced the repositories as follow:<br/>
+When building our code We referenced the repositories as follow:<br/https://github.com/ddrrrr/projectRUL>
